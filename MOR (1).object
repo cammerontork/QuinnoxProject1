@@ -1,0 +1,314 @@
+<Root type="MOR" ref="NewProject">
+  <Page packageName="" ref="UName">
+    <ObjectGroup ref="Username">
+      <Object ref="Username">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="com.ctclogindemo:id/et_username" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="Password">
+    <ObjectGroup ref="Password">
+      <Object ref="Password">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="com.ctclogindemo:id/et_password" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="LoginBtn">
+    <ObjectGroup ref="LoginBtn">
+      <Object ref="LoginBtn">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="com.ctclogindemo:id/btn_login" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="AlertBtn">
+    <ObjectGroup ref="Alertbtn">
+      <Object ref="Alertbtn">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]/XCUIElementTypeStaticText[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="Backbtn">
+    <ObjectGroup ref="Backbtn">
+      <Object ref="Backbtn">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeNavigationBar[1]/XCUIElementTypeButton[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="TxtBox">
+    <ObjectGroup ref="Txtbox">
+      <Object ref="Txtbox">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTextField[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="CreateAlertlink">
+    <ObjectGroup ref="CreateAlert">
+      <Object ref="CreateAlert">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[2]/XCUIElementTypeStaticText[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="WillDoAlert">
+    <ObjectGroup ref="WillDoAlert">
+      <Object ref="WillDoAlert">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeAlert[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeScrollView[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="Will do" ref="Name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="VerifyTextbutoon">
+    <ObjectGroup ref="VerifyTextbutoon">
+      <Object ref="VerifyTextbutoon">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.RelativeLayout[1]/android.widget.Button[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="SideButton">
+    <ObjectGroup ref="3 dot view">
+      <Object ref="3 dot view">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.appcompat.widget.LinearLayoutCompat[1]/android.widget.ImageView[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="NextModule">
+    <ObjectGroup ref="nxtModuleBtn">
+      <Object ref="nxtModuleBtn">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.RelativeLayout[1]/android.widget.Button[2]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="Logout btn">
+    <ObjectGroup ref="Logout btn">
+      <Object ref="Logout btn">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="com.ctclogindemo:id/title" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="DropDown">
+    <ObjectGroup ref="DropDownBtn">
+      <Object ref="DropDownBtn">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="com.ctclogindemo:id/StateDropdown" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="CityName">
+    <ObjectGroup ref="New York City">
+      <Object ref="New York City">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="/hierarchy[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.TextView[4]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="ScrollBtn">
+    <ObjectGroup ref="ScrollBtn">
+      <Object ref="ScrollBtn">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[4]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="Scrolling" ref="name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="2TypesView">
+    <ObjectGroup ref="TableViewlink">
+      <Object ref="TableViewlink">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]/XCUIElementTypeStaticText[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Scroll Viewlink">
+      <Object ref="Scroll Viewlink">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="ScrollView" ref="name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="Table Value">
+    <ObjectGroup ref="35Table Value">
+      <Object ref="35Table Value">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="35" ref="name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="1Table Value">
+      <Object ref="1Table Value">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+        <Property value="1" ref="name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="AttributeBtn">
+    <ObjectGroup ref="Attributelink">
+      <Object ref="Attributelink">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="Attributes" ref="name" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+  <Page packageName="" ref="DataandTime">
+    <ObjectGroup ref="Select DateTime Picker">
+      <Object ref="Select DateTime Picker">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="Date and Time Picker" ref="name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Show year Picker field">
+      <Object ref="Show year Picker field">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="Show year picker" ref="name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="MonthWheel">
+      <Object ref="MonthWheel">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeDatePicker[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeDatePicker[1]/XCUIElementTypePicker[1]/XCUIElementTypePickerWheel[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="YearWheel">
+      <Object ref="YearWheel">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeDatePicker[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeDatePicker[1]/XCUIElementTypePicker[1]/XCUIElementTypePickerWheel[2]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="DateSelect">
+      <Object ref="DateSelect">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="" ref="xpath" pref="5"/>
+        <Property value="15" ref="name" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="AfterDateSelected">
+      <Object ref="AfterDateSelected">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeImage[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+    <ObjectGroup ref="Picker">
+      <Object ref="Picker">
+        <Property value="" ref="UiAutomator" pref="1"/>
+        <Property value="" ref="UiAutomation" pref="2"/>
+        <Property value="" ref="id" pref="3"/>
+        <Property value="" ref="Accessibility" pref="4"/>
+        <Property value="//XCUIElementTypeApplication[1]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeDatePicker[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeDatePicker[1]/XCUIElementTypePicker[1]" ref="xpath" pref="5"/>
+        <Property value="" ref="class" pref="6"/>
+      </Object>
+    </ObjectGroup>
+  </Page>
+</Root>

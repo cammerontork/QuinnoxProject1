@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nA7AvPT1ISVoBvJnczp9jK9bRYhjPXhsdVaw3gFziuoo1SK83Be5wL0xXDICCZ5tPW1w7VU6cj3TAvi54EMUuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cameront\\source\\repos\\readCSV\\readCSV\\readCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cameront\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

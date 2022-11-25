@@ -1,0 +1,17 @@
+C:\Users\cameront\source\repos\readCSV\readCSV\bin\Debug\net6.0\readCSV.exe
+C:\Users\cameront\source\repos\readCSV\readCSV\bin\Debug\net6.0\readCSV.deps.json
+C:\Users\cameront\source\repos\readCSV\readCSV\bin\Debug\net6.0\readCSV.runtimeconfig.json
+C:\Users\cameront\source\repos\readCSV\readCSV\bin\Debug\net6.0\readCSV.dll
+C:\Users\cameront\source\repos\readCSV\readCSV\bin\Debug\net6.0\readCSV.pdb
+C:\Users\cameront\source\repos\readCSV\readCSV\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.csproj.AssemblyReference.cache
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.AssemblyInfoInputs.cache
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.AssemblyInfo.cs
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.csproj.CoreCompileInputs.cache
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.csproj.CopyComplete
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.dll
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\refint\readCSV.dll
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.pdb
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\readCSV.genruntimeconfig.cache
+C:\Users\cameront\source\repos\readCSV\readCSV\obj\Debug\net6.0\ref\readCSV.dll

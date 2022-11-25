@@ -1,0 +1,25 @@
+{
+    "testScriptName": "*AddThis*",
+"moduleName": "*AddThis*",
+            "objective": "*AddThis*",
+            "testSteps": [
+        {
+            "stepDescription":Enter the Username
+            "userAction"Set
+            "isParameterized": false,
+            "identifier": "*GetFromXML - ref (Use whichever one where 'value' is not empty)*",
+            "identifierValue": "*GetFromXML - value (Use whichever one is not empty)*",
+            "dataValue": null,
+            "dataColumn": "",
+            "isScreenshot": true,
+            "index": "",
+            "imageName": "",
+            "isConditional": false,
+            "stepNum":1
+            "property": "text" /*Depends on which attribute of the element you want*/,
+            "controlType": "WebElement",
+            "dataViewAttribute": "text",
+            "isDataColumn": true
+        }
+    ]
+}

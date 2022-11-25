@@ -1,0 +1,10 @@
+Step,ObjectName,Description,Action,Input,Condition,Reference
+1,Username,Enter the Username,Set,Input:DataInput,,UName
+2,Password,Enter the Password,Set,Input:DataInput,,Password
+3,LoginBtn,Click Login button,Click,,,LoginBtn
+4,VerifyTextbutoon,Assert if text: [<Data>] is present on the page,assertElementDisplayed,,,VerifyTextbutoon
+5,DropDownBtn,Click on DropDown Btn,Click,,,DropDown
+6,New York City,Select the City from Drop Down,Click,,,CityName
+7,nxtModuleBtn,Assert if text: [<Data>] is present on the page,assertElementDisplayed,,,NextModule
+8,nxtModuleBtn,Click on Next Module Btn,Click,,,NextModule
+
